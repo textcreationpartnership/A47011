@@ -1,0 +1,846 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dooms-day: or, The great day of the Lord drawing nigh; by certain signs and tokens thereof foretold by our Lord Jesus Christ wherein is declared, that there shall be an end of the world; and that all men shall appear before the judgement seat of Christ, there to be made partakers, either of everlasting life in the kingdom of Heaven, or of everlasting woe and miserable torments in Hell, to all eternity. The 30th edition, with additions. Very useful for all those that desire to be saved. By Andrew Jones M.A. Licensed, and entered according to order.</title>
+            <author>Jones, Andrew, M.A.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47011</idno>
+            <idno type="STC">Wing J913A</idno>
+            <idno type="STC">ESTC R216329</idno>
+            <idno type="EEBO-CITATION">99828061</idno>
+            <idno type="PROQUEST">99828061</idno>
+            <idno type="VID">32488</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47011)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32488)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1911:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dooms-day: or, The great day of the Lord drawing nigh; by certain signs and tokens thereof foretold by our Lord Jesus Christ wherein is declared, that there shall be an end of the world; and that all men shall appear before the judgement seat of Christ, there to be made partakers, either of everlasting life in the kingdom of Heaven, or of everlasting woe and miserable torments in Hell, to all eternity. The 30th edition, with additions. Very useful for all those that desire to be saved. By Andrew Jones M.A. Licensed, and entered according to order.</title>
+                  <author>Jones, Andrew, M.A.</author>
+               </titleStmt>
+               <extent>[16] p. : port. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>printed for J. Wright, J. Clarke, W. Thackeray, and T. Passenger,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a half-title, which reads: Dooms-day at hand.</note>
+                  <note>Signatures: A.</note>
+                  <note>With a woodcut portrait on the verso of the half-title.</note>
+                  <note>Imperfect; copy badly stained, affecting text.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Salvation --  Early works to 1800.</term>
+               <term>Judgement Day --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:32488:1"/>
+            <p>Dooms-day AT HAND,</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:32488:2"/>
+            <p>
+               <figure>
+                  <head>
+                     <q>
+                        <l>
+                           <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>: <gap reason="illegible" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> Book, and <gap reason="illegible" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> 
+                           <gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>alt underſtand,</l>
+                        <l>The Day of Judgment for to be at hand.</l>
+                     </q>
+                  </head>
+                  <figDesc>portrait of Andrew Jones</figDesc>
+               </figure>
+            </p>
+            <q>
+               <bibl>1 Pet. 4.7.</bibl>
+               <p>The end of all things is at ha<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> therefore be ſober, and watch unto pra<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </p>
+            </q>
+            <q>
+               <bibl>James <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>9.</bibl> 
+               <p>Be ye alſo patient, ſtabliſh y<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> hearts, the coming of the Lord dr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>nigh. Grudge not one againſt another, le<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ye be condemned: Behold! the Ju<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> ſtandeth at the Door.</p>
+            </q>
+            <q>
+               <bibl>2 Pet. 3. 10, 11.</bibl>
+               <p>But the Day of the Lord <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>me as a Thief in the night, in which t<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>vens ſhall paſs away, the Earth alſo, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the works thereof ſhall be burnt up.</p>
+            </q>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:32488:2"/>
+            <p>
+               <hi>Dooms-Day:</hi> OR, The Great Day of the Lord drawing nigh; by certain Signs and Tokens thereof fore<g ref="char:EOLhyphen"/>told by our Lord Jeſus Chriſt, <hi>Wherein is declared,</hi> That there ſhall be an end of the World; and that all men ſhall appear before the Judge<g ref="char:EOLhyphen"/>ment Seat of Chriſt, there to be made par<g ref="char:EOLhyphen"/>takers, either of everlaſting life in the King<g ref="char:EOLhyphen"/>dom of Heaven, or of everlaſting woe and miſerable Torments in Hell, to all eternity.</p>
+            <p>The <hi>30th</hi> Edition, with Additions.</p>
+            <p>Very uſeful for all thoſe that deſire to be ſaved.</p>
+            <q>
+               <bibl>Acts 17. 13.</bibl>
+               <p>God hath appointed a Day, in which he will Judge the World.</p>
+            </q>
+            <q>
+               <bibl>Ioel 1. 30, 31.</bibl>
+               <p>And I will ſhew wonders in Hea<g ref="char:EOLhyphen"/>ven, and on Earth, Blood, and Fire: the Sun ſhall be turned into darkneſs, and the Moon in<g ref="char:EOLhyphen"/>to Blood, before the Great and Terrible Day of the Lord cometh.</p>
+            </q>
+            <p>
+               <hi>BY ANDREW JONES,</hi> M. A.</p>
+            <p>Licenſed, and entered according to Order.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>J. Wright, J. Clarke, W. Thackeray,</hi> and<hi>T. Paſſenger.</hi> 1632.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:32488:3"/>
+            <opener>
+               <salute>Courteous READER.</salute>
+            </opener>
+            <p>THere is lately publiſhed an excellent and profitable Sermon, called, The <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>iſtians bleſſed Choice. Likewiſe, Chriſt's firſt Sermon; alſo Chriſt's laſt Sermon, and the Chriſtians beſt Garment. Alſo Hea<g ref="char:EOLhyphen"/>vens Glory, and Hells Horror. And a War<g ref="char:EOLhyphen"/>ning-piece to the ſloathful, idle, careleſs, drunken, and ſecure ones of theſe laſt and worſt of times. Very Godly Books and are but Three pence a piece.</p>
+            <p>Likewiſe:
+<list>
+                  <item>1. England's Faithful Phyſitian.</item>
+                  <item>2. The dreadful Character of a Drunk<g ref="char:EOLhyphen"/>ard.</item>
+                  <item>3. Dooms-day at hand.</item>
+                  <item>4. The Father's laſt Bleſſing to his Chil<g ref="char:EOLhyphen"/>dren.</item>
+                  <item>5. The black Book of Conſcience.</item>
+                  <item>6. The ſin of Pride Arraign'd and Con<g ref="char:EOLhyphen"/>demn'd.</item>
+                  <item>7. The Plain man's plain Path-way to Heaven.</item>
+                  <item>8. Death Triumphant.</item>
+                  <item>9. The Charitable Chriſtian.</item>
+               </list>
+            </p>
+            <p>All theſe Books written by <hi>John Hart,</hi> Dr. of Divinity, and are to be ſold by <hi>J. Wright, J. Clarke, W. Thackery,</hi> and <hi>T. Paſſenger,</hi> Al<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> very neceſſary for theſe Licentious Times.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:32488:3"/>
+            <head>DOOMS-DAY, or, <hi>The end of all things.</hi>
+            </head>
+            <epigraph>
+               <bibl>Mat. 24. 29, &amp;c.</bibl>
+               <q>Immediately after the Tri<g ref="char:EOLhyphen"/>bulation of thoſe days, ſhall the Sun be dark<g ref="char:EOLhyphen"/>ned, and the Moon ſhall not give her light; then ſhall they ſee the Son of Man comming in the Clouds, with Power and great Glory: when ye ſee theſe things, know that it is near, even at the door.</q>
+               <q>As the days of <hi>Noah</hi> were, ſo ſhall the comming of the Son of Man be: For in the days before the Flood, they were Eating, and Drinking, Marrying, and giving in Marriage, and they knew not till the Flood came and took them all away: ſo ſhall the coming of the Son of Man be.</q>
+               <q>Watch therefore, for ye know not in what hour the Lord cometh, therefore be ready, for in ſuch an hour as ye know not, the Son of Man cometh, and bleſſed is that Servant, whom the Lord when he cometh ſhall find ſo doing.</q>
+            </epigraph>
+            <p>
+               <hi>CErtain it is that there ſhall be a day of Judgement, wherein all Mankind ſhall he judged, and the Earth and all therein ſhall be deſtroyed by Fire; which truth is believed by all but the Sadduces, and Atheiſtical Infidels, of whom this age is full, who think there is no Reſurrection; but how few are they that prepare themſelves for this great day, and make themſelves ready to meet the Lord at his coming.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:32488:4"/>
+               <hi>The Bridegroom is coming, and yet moſt men <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th the fooliſh Virgins, have not prepared their Lam<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s. Our Saviour Ieſus Chriſt in the Twenty Fourth of</hi> Matthew, <hi>having at large ſhewed the ſigns of his coming to Iudgment, and withal given us ſome fore warnings, that thereby h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> might be fore-arm'd. In the Twen<g ref="char:EOLhyphen"/>ty Fifth Chapter, he ſhews how unprepared ma<g ref="char:EOLhyphen"/>ny ſhould be againſt his coming, and as a caution to <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, he ſets down the event of their unprepa<g ref="char:EOLhyphen"/>r<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ſs. Chriſt, in the foregoing Chapter, bids them</hi> Watch and Pray; <hi>but they (as you may ſee in the Fifth Verſe)</hi> all ſlumbered and ſlept. <hi>And at Midnight was a great cry made, when they were all aſleep, then came the Bridegroom ſuddenly as a Thief in the night; and when they <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ould have been ready to have received him, they were to ſeek for Oyl: And ſo not being ready, the door was ſhut againſt them, and though they cryed,</hi> Lord, Lord, open unto us: <hi>yet the Lord ſaid unto them,</hi> I know you not, <hi>Verſ.</hi> 17. Watch therefore, for you know neither the day nor hour wherein the Son of Man cometh.</p>
+            <p>
+               <hi>A<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d now behold! the Day draweth nigh, the Iudge ſtandeth at the Door,</hi> James 5. 9. <hi>He i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> at hand. Let us not therefore put far away from us, the Day of the Lord.</hi> For yet a little while, and he that ſhall come will come, and will no<g ref="char:EOLhyphen"/>tarry.</p>
+            <p>
+               <hi>Let us be prepared and in a readli<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s, let</hi>
+               <pb facs="tcp:32488:4"/>
+               <hi>me be taken unawares, as the Fooliſh Virgins were, and ſo be ſhut out of Heaven for ever.</hi>
+            </p>
+            <p>
+               <hi>God hath appointed a day in which he will Iudge the World, and how ſoon this Day may be, we know not, perhaps ſooner than we are aware of: it may be, if not this Year, yet the next: Although we know not certainly the time, when the great day will be, ytt we may ſee it can<g ref="char:EOLhyphen"/>not be far off, if we look but into the Scriptures of the Old and New Teſtament; S.</hi> Paul <hi>ſaith,</hi> We are they upon whom the ends of the World are come. <hi>If therefore the ends of the World were come upon thoſe who lived</hi> 1600 <hi>years ago, then certainly the Day of Iudgment cannot be far off,</hi> Zeph. 1. 14. The great Day of the Lord is near, it haſteth greatly.</p>
+            <p>
+               <hi>And</hi> Mat. 3. 2. John the Baptiſt Preached, Repent for the Kingdom of Heaven is at hand. <hi>St.</hi> Aguſtin <hi>ſaith, the World ſhall laſt ſix A<g ref="char:EOLhyphen"/>ges. The firſt from</hi> Adam <hi>to</hi> Noah, <hi>the ſecond from</hi> Noah <hi>to</hi> Abraham, <hi>the third from</hi> Abra<g ref="char:EOLhyphen"/>ham <hi>to</hi> David, <hi>the fourth from</hi> David <hi>to the Tranſmigration to</hi> Babylon, <hi>the fifth from thence untel the coming of Chriſt in the Fleſh, and the ſixth from Chriſt coming in the Fleſh until the coming of Iudgment; ſo that now we live in the laſt Age. O that men were wiſe, that they would think of this day:</hi> Whether
+<pb facs="tcp:32488:5"/>
+they eat <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r drink <hi>(ſaith St.</hi> Jerom) or what<g ref="char:EOLhyphen"/>ſoever I do methinks I hear this crying ſound<g ref="char:EOLhyphen"/>ing in mine ear; Ariſe you dead, and come to Judgement. John <hi>the</hi> Baptiſt, <hi>he was the fore-runners of Chriſt, and we all <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>now that it wa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> r<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>g after his coming, that Chriſt himſel<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> came: and now the fore-runners of the Day of Iudgement are already come; and the day i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſelf will ſuddenly follow, when one of the Ser<g ref="char:EOLunhyphen"/>va<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts are come, the Maſter will not be long God hath foretold us, that before his coming to Iudgement, ſuch and ſuch things ſhould come to paſs, and we having theſe things come to paſs, therefore let us be ready.</hi>
+            </p>
+            <p>
+               <hi>In</hi> Matth. 2<gap reason="illegible" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap> 
+               <hi>the Diſciples asked Chriſt,</hi> What ſhall be the ſigns of his coming, and of the end of the world? <hi>And Chriſt anſwered them ſaying,</hi> Take heed, let no man deceive you, for many ſhall come in my name, ſaying, I am a Chriſt, and ſhall deceive many, ver. 5. and 24. There ſhall ariſe falſe Chriſts, and falſe Pro<g ref="char:EOLhyphen"/>phets, and ſhall ſhew great ſigns and wonders. <hi>And hath not this been fulfilled in our Days? I trouble to think how impiouſly, blaſphe<g ref="char:EOLhyphen"/>mouſly, and curſedly, many wretched Crea<g ref="char:EOLhyphen"/>tures have abuſed the Lord Ieſus Chriſt; ſome affirming themſelves to be the Virgin</hi> Mary, <hi>others the Lord Ieſus Chriſt himſelf. O<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> what a ſad account will theſe men give, wh<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> they ſhall appear before the great Tribunal o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Lord?</hi>
+               <pb facs="tcp:32488:5"/>
+               <hi>Another ſign of the day of Iudgement being hand, is expreſſed,</hi> Ver. 6, 7. There ſhould Wars, and rumours of Wars; Nation againſt <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tion, and Kingdom againſt. Kindom: <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat cruel unnatural blloody Wars have <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>en ſeen? and not only Nation againſt Nation, <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d Kingdom againſt Kingdom, but Brother <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>nſt Brother: yea, the Father hath killed <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s own Son, and the Son hath killed his <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n Father; even as Chriſt foretold,</hi> Mark 13. 10. The Brother ſhall betray the Brother to death, and the Father the Son, and the Chil<g ref="char:EOLhyphen"/>dren ſhould riſe up againſt their Parents, and cauſe them to be put to death; and many ſhall be offended, and ſhall betray one another, and hate one another, <hi>ſaith Chriſt: When ever was were more Hatred and Treachery then now? <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n any Age of the World ſhew the like for Envy and Malice? Will not one Bro<g ref="char:EOLhyphen"/>ther betray another for Gain? Behold, theſe things ought not ſo to be; but this is a ſign if the end of the World. And becauſe</hi> Ini<g ref="char:EOLhyphen"/>quity ſhall abound, <hi>ſaith Chriſt,</hi> the love of many ſhall wax cold. <hi>When did Sin ſo much a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>und as now? VVhen ever was there more Sabbath-breaking and Drunkenneſs, VVhoring and Swearing, and Curſing, and all manner of <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ominable evils then now? yea, even little <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>s are skilful to Sin, before they are skilful <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>; to young Children, great Sinners! And for</hi>
+               <pb facs="tcp:32488:6"/>
+Love and Charity, when was it ever leſs th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> now? it is cold indeed now.</p>
+            <p>And her <gap reason="illegible" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>n expreſſed is, The Sun ſhall turned into darkneſs, and the Moon ſha<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> give her Light; there ſhall be Blood, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Fires, with Vapors of Smoak. <gap reason="illegible" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>urage and ſad Eclipſes have we lately <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and the Lord hath forwarned us by m<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ſtrange ſights from Heaven, as ever Mo<gap reason="illegible" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> men beheld; and for Fire, there hath b<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> many ſad ſpectacles now of late, witneſs <hi>Flee<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſ<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eet, Thredneedle ſtreet,</hi> and <hi>South-wa<gap reason="illegible" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap>
+               </hi> in which places were near two hundred habita<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ons conſumed. And this hath not only happe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ed in and about the City of <hi>London,</hi> but like<g ref="char:EOLunhyphen"/>wiſe ſeveral other places of the Countries abo<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> been partakers of the ſame ſorrows: Wh<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſtrange ſights were lately ſeen in the Mounta<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of <hi>Sarpedon?</hi> in <hi>Spain</hi> was lately take<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Monſter with ſeven hands, and Arms like a M<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> but the lower parts like a Satyr, with clo<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Feet. Surely theſe are the Wonders of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lord, declaring to us, that the great Day <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Judgment is at hand.</p>
+            <p>The laſt ſign that Chriſt tells us of, is i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Mat.</hi> 24. 38. <hi>The days immediately before the laſt day, ſhould be like the days of <hi>No<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> before the Flood came.</hi> The Lord grant, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not taken as they were, ſuddenly, before <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> were aware. In the days before the Flood, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb facs="tcp:32488:6"/>
+Eating and Drinking, Marrying and gi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap> in Marriage, following after their voluptu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Delights and ſinful Pleaſures, and in that <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>di<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>on the Flood came and took them all a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>; ſo ſhall the coming of the Son of Man be. <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow Men Eat and Drink, and follow the <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ing of their own Luſts, ſaying within them<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>es as the rich Fool, <hi>Let us Eat and Drink, <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d take our fill of pleaſure, for to morrow all be as this day, and much more abundant: <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heſe pleaſures ſhall continue for ever.</hi> Where<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> they ſhould ſay, <hi>Let us Watch and Pray, for tomorrow we may dye; for it is appoint<g ref="char:EOLhyphen"/>ed for all men once to dye, and then cometh <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dgment.</hi> Solomon ſaith, <hi>Rejoyce O Young Man, and let thy heart chear thee, but know for all this thou muſt come to Judgment.</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd ſeeing (as Chriſt ſaith) we have ſeen all theſe things, come to paſs, let us know that this <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is near, even at the door. The Old World becauſe they would take no notice, the Flood came and drowned them all they had one hundred and twenty years to repent in, and yet would not hearken. <hi>Nineve</hi> had but forty days, yet they repented. <hi>Iſrael</hi> had forty years time to repent in. But who knows how long time we ſhall have to repent? we have had long time al<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>y, hundreds of years, but we are ſtill a ſtiff<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ed and diſobedient People.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. Paul</hi> tells us, 1 <hi>Tim.</hi> 4. <hi>In the laſt days</hi>
+               <pb facs="tcp:32488:7"/>
+there ſhould be a departing from the Fait<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> giving <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eed to ſeducin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Spirits, and Doctr<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of Devils. <hi>And</hi> 2 Tim. 3. 1. In the laſt <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> p<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ilous times ſhall come. Men ſhall be<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> themſelves, covetous, boaſters, proud, blaſ<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>mers, &amp;c. <hi>Then certai<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> we are, tho<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the end of the world is come, for <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> theſe things have been fulfilled, is very <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ful to conſider. The Prophet</hi> Zephaniah 1. <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>ſaith,</hi> The great day of the Lord is near, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> near, it haſtneth greatly. <hi>And</hi> ver. 15. <hi>he <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> us,</hi> It is a day of wrath and diſtreſs, a day <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deſolation, a day of darkneſs and gloomin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> day of clouds and thick darkneſs.</p>
+            <p>
+               <hi>The day of Iudgement, although it ſh<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a day of joy and rejoycing to the Godly, it <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be a day of woe to the wicked:</hi> For who ma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bide the day of his coming? and who ſhall <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> able to ſtand when he appeareth? Mal<g ref="char:punc">▪</g> 
+               <gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>Then wicked men ſhall cry to the Mount<gap reason="illegible" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap> to fall upon them, and hide them from <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> wrath of God; for in that day the wicked, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> all the Nations that forget God, ſhall be th<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> into Hell, the<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> to abide for ever, ſuff<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Vengeance of Eternal Fire; as St. <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſaith,</hi> That day ſhall burn as an Oven, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the wicked ſhall be as ſtubble, <hi>&amp;c. ſaith the <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Mal.</hi> 4. 8. But to thoſe that fear his Name <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Son of Righteouſneſs ariſe, with hea<gap reason="illegible" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> his wings, and ſhall ſhine upon the juſt, a<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb facs="tcp:32488:7"/>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them into the Kingdom of Heaven, where <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s unſpeakable, and full of Glory.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d now having ſhewed you the certainty of <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> great day of Iudgement, and forewarned <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of the near approach thereof; I will con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>e with ſome few Exhortations to all, to <gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>re our ſelves for this great day.</hi>
+            </p>
+            <p>
+               <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s it ſo then, that there is a day of Iudge<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nt? and is that day at hand? then let every <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> get Oyl, get Grace into the Lamp of his <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>rt, and rouze himſelf up from the world, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> whenſoever the Lord cometh, he may be <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>y. VVe ſhould live every day, as if it were <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> laſt day we had to live; for if Iudgement <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>es not, yet Death will certainly come: <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e know not when we lay our ſelves down ſleep, whether we ſhall awake again. Many <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> been ſuddenly ſurprized by Death, that <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y have been taken away before they were <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to dye. Although there is nothing ſo cer<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>n as Death, yet nothing ſo uncertain as the <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>r and time when Death will come. The <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ol ſaid in his heart,</hi> Soul take thy eaſe, Eat, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rink, and be merry, for thou haſt goods laid <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for many years: <hi>But what ſaith God?</hi> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Fool, this night ſhall thy Soul be required <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thee; then whoſe ſhall thoſe be? thou muſt <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>y nothing with thee.</p>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> had provided that which could do him <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>od; certainly had he ſaid thus, He had laid
+<pb facs="tcp:32488:8"/>
+up a good ſtock for Eternity. O my <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God hath exceedingly bleſt me in this <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with great encreaſe, and abundance, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhall I do to lay up ſome portion for anot<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this will I do, that as God hath gi<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, I will make a good uſe of them <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that abuſe them to ſatisfie my Luſts, b<gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reely lend them to the Lord: I will <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> poor, cloath the naked, and feed<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap>; for in ſo doing, I ſhall lay up a go<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſtock for eternal life. <hi>Certainly had he <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> this, God would have ſaid unto him,</hi> W<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> done thou good and faithful Servant, thou h<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> improved thy Maſters Talent, enter into <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Maſters Joy. <hi>For certainly what we give to <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> po<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r, we lend to the Lord, and he would rep<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> again ſeven fold for it at the laſt day, when <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n ſhall be Iu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ged <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ording to what they <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne in the Fleſh, <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ther it be good or wheth<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> it b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> evil; and then the poor Man ſhall be <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uch reſpected before God, as the greateſt <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> or Emperor, and perhaps more: for h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o reſpector of perſons, but he will <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> according to his works, whether <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e po<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ich. For we muſt all appear before <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſeat <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Chriſt, ſmall and great, rich and <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> where we ſhall be made partakers of eternal <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>pyneſs in Heaven, or ſad ſpectacles of ete<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> torments in Hell. For God is a Righ<gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> Iudge, he fears none; but will tender Mercy <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi>
+               <pb facs="tcp:32488:8"/>
+               <hi>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>m that have ſhewed Mercy; but to the un<g ref="char:EOLhyphen"/>righteous, cruel, and hard-hearted Sinners, ac<g ref="char:EOLhyphen"/>cording to their own deſerts.</hi> Then will he di<g ref="char:EOLhyphen"/>vide the Chaff from the Wheat, the Sheep from the Goats, and ſet the Sheep on his right hand, and the Goats on his left; and ſo pro<g ref="char:EOLhyphen"/>nounce Sentance to the Righteous. Come ye bleſſed of Father, inherit the Kindom prepa<g ref="char:EOLhyphen"/>red for you from the beginning of the World. But to the wicked and ungodly, Go ye curſed into everlaſting fire, prepared for the Devil and his Angels. <hi>And then what will the prophane Swearer, Curſer, and Blaſphemer, have to ſay, what will become of the Drunkard, Whore<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onger, and Adulterer? they will wiſh then for the Mountains to fall upon them, or that they might be ſuddenly deſtroyed. The Lord awaken every ſinful Soul, that he may re<g ref="char:EOLhyphen"/>pent and amend his Sinful Life, and turn to the Lord with ſpeed, leaſt that great and ter<g ref="char:EOLhyphen"/>rible day of the Lord come upon him unawares.</hi> For as the Lightening lighteneth from one place of Heaven unto the other, ſo ſhall the <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ing of the Son of Man be: likewiſe alſo as it was in the days of <hi>Lot,</hi> they eat, they drank, they bought, they ſould, they planted, they builded; but the ſame day that <hi>Lot</hi> went out of <hi>Sodom,</hi> it rained fire and brimſtone from Heaven, and deſtroyed them all, even thus ſhall it be in the day when the Son of Man ſhall
+<pb facs="tcp:32488:9"/>
+be <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ed, <hi>Luke</hi> 17. 20, 30: And before <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhall be gathered all Nations, and he ſhall <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>rate them one from another, as the Shep<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> divideth the Sheep from the Goats, a<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Goats ſhall be ſent into everlaſting puniſh<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> and the Sheep into e<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>laſting Life, <hi>Mat.</hi> 2<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 45. For at t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> the World, the A<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> ſhall come forth, a<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſever the wicked among the juſt, and <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> caſt them into <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>nace of Fire, where ſhall be Weeping <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Wailing, and gnaſhing of Teeth, for eve<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <hi>Mat.</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>3. 49, 50. <hi>Therefore every one heed, watch and pray, for we know not <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the time is, Mat.</hi> 12. 33, 34. For the So<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Man is <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a man taking a far journey, who <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his houſe, and gave Authority to his Serv<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> and to every man his work, and willed the <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ter to watch. W<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tch ye therefore, for ye <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not when the Maſter of the houſe comet<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ven, or a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> midnight. or at Cock crowing <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> one morning; leaſt coming ſuddenly, he find <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſleeping. And what I ſay unto you, I ſa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to all men, Watch. <hi>For bleſſed ſhall th<gap reason="illegible" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> wh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n he cometh, ſhall <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>en. Even ſo <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Lord <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
